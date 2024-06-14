@@ -1,4 +1,4 @@
-# Repositório Geração Tech - 02 Daily Tasks
+# Repositório Geração Tech - 02 / Daily Tasks
 
 Bem-vindo ao repositório GT02 Daily Tasks! Este é o espaço centralizado onde você encontrará todas as tarefas diárias para o curso GT02. Aqui você pode acessar facilmente as atividades planejadas para cada dia, venha manter-se atualizado com os projetos em andamento.
 
