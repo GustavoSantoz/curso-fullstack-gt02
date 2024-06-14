@@ -34,6 +34,7 @@ body {
   .card {
     background: black;
     color: white;
+    border-radius: 15px;
   }
 
   .card > * {
@@ -44,6 +45,7 @@ body {
 .primary-content,
 .cards {
   container-type: inline-size;
+  
 }
 
 main {
@@ -61,15 +63,18 @@ main {
   /* container-type: inline-size;
   container-name: card-grid; */
   container: card-grid / inline-size;
+  
 }
 
 .card {
   display: grid;
   gap: 1rem;
+  border-radius: 15px;
 }
 
 .card h2 {
   font-size: clamp(1.5rem, 10cqi, 3rem);
+  border-bottom: 1px solid white;
   /* cqi = 10% of a query container's inline size */
   /* cqb is based on the block size */
   /* https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_container_queries */
